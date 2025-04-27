@@ -34,7 +34,8 @@ It helps understand how patients feel about medications based on their reviews a
 |---------------------|----------|
 | Logistic Regression | 94.9%    |
 | Naive Bayes         | 92.7%    |
-| Random Forest       | **95.5% ✅** (final model)
+| Random Forest       | 95.5%    |
+| **SVM (LinearSVC)** | **96.1% ✅ Final model**
 
 ---
 
